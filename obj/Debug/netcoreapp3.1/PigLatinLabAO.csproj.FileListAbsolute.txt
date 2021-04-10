@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.exe
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.deps.json
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.runtimeconfig.json
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.runtimeconfig.dev.json
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.dll
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\bin\Debug\netcoreapp3.1\PigLatinLabAO.pdb
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.AssemblyInfo.cs
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.dll
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.pdb
+C:\Users\12482\source\repos\PigLatinLabAO\PigLatinLabAO\obj\Debug\netcoreapp3.1\PigLatinLabAO.genruntimeconfig.cache
